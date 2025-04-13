@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Dylan429-eng
-- 👀 I’m interested in Security IT and the dev web , mobile
+- 👀 I’m interested in IT Security and the dev web , mobile
 - 🌱 I’m currently learning for improve my skills
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
